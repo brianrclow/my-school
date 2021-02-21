@@ -5,7 +5,7 @@ There is the main list view with the course names and you can click on a course 
 
 Here are a few screenshots of what the app looks like!
 
-<img src="my-school-master.png" width="48">
+<img src="my-school-master.png" width="250">
 
 
-<img src="my-school-master.png" width="48">
+<img src="my-school-master.png" width="250">
